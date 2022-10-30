@@ -14,7 +14,7 @@
     padding-right: 18rem;
 } */
 
-.share-link-phone{
+.share-link.phone{
     display: none;
 }
 
@@ -24,5 +24,22 @@
     right: 11.53%;
     bottom: 14.95%;
     top: 4.95%
+}
+
+@media (max-width:600px){
+    .profile{
+        width: 21.4375rem;
+        height: 8.75rem;
+    }
+    .share-link.web{
+        display: none;
+    }
+
+    .share-link.phone{
+        display: block;
+        right: 0;
+    }
+
+
 }
 

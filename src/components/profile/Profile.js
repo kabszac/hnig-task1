@@ -12,10 +12,10 @@ const Profile = () => {
             <p id='twitter'> Kabucho Isaac</p>
             <p id='slack'>Isaac Kuria</p>
            </div>
-           <div className="share-link">
+           <div className="share-link web">
             <img src={icon} alt="share" />
            </div>
-           <div className="share-link-phone">
+           <div className="share-link phone">
             <img src={phone} alt="phone" />
            </div>
         </div>
