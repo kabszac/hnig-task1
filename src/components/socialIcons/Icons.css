@@ -1,0 +1,12 @@
+.icons{
+    width: 76rem;
+    height: 4rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.icons a {
+    padding-right: 1.5rem;
+    
+}
