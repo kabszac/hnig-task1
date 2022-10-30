@@ -10,3 +10,11 @@
     padding-right: 1.5rem;
     
 }
+
+
+@media (max-width:600px){
+    .icons{
+        width: 23.4375rem;
+        height: 4.5rem;
+    }
+}
