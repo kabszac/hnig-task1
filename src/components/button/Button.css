@@ -20,3 +20,10 @@ a.button-link {
     /* border: 1px solid green; */
 }
 
+@media (max-width:600px){
+    a.button-link{
+        width: 21.4375rem;
+        height: 4.25rem;
+    }
+}
+
