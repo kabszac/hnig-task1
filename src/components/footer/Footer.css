@@ -11,3 +11,15 @@
     top: 62.375rem;
 }
 
+
+@media (max-width:600px){
+    .footer{
+        width: 23.4375rem;
+        height: 12.25rem;
+        top: 55.75rem;
+        flex-direction: column;
+        justify-content: flex-start;
+        align-items: flex-start;
+        padding: 2rem 0;
+    }
+}
