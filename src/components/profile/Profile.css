@@ -1,0 +1,28 @@
+.profile{
+    display: flex;
+    justify-content: center;
+    position: relative;
+    width: 72rem;
+    height: 8.75rem;
+}
+
+#slack {
+    display: none;
+}
+
+/* .profile-part{
+    padding-right: 18rem;
+} */
+
+.share-link-phone{
+    display: none;
+}
+
+.share-link {
+    position: absolute;
+    /* left: 12.5%; */
+    right: 11.53%;
+    bottom: 14.95%;
+    top: 4.95%
+}
+
