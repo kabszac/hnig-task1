@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/hnig-task1/static/css/main.80b62283.css",
+    "main.js": "/hnig-task1/static/js/main.4d563f2a.js",
+    "static/js/787.b755f208.chunk.js": "/hnig-task1/static/js/787.b755f208.chunk.js",
+    "static/media/I4G.svg": "/hnig-task1/static/media/I4G.601ff0479d970c740e8b7d7ba7821548.svg",
+    "static/media/profile.svg": "/hnig-task1/static/media/profile.e5c78cb1104bf1e0e40a88caf9e340fe.svg",
+    "static/media/zuri.svg": "/hnig-task1/static/media/zuri.7a2a9b6cb9575ebdc89647d600da0cf0.svg",
+    "static/media/slack.svg": "/hnig-task1/static/media/slack.a9d197106892a785eeb5d38157f825b1.svg",
+    "static/media/github.svg": "/hnig-task1/static/media/github.6a40f212828370260b880b93f8d36b56.svg",
+    "static/media/phone.svg": "/hnig-task1/static/media/phone.6939a531933a49e19b5836df7b373a07.svg",
+    "static/media/Icon.svg": "/hnig-task1/static/media/Icon.e3f81b496e21f13d54272e5772ace63b.svg",
+    "index.html": "/hnig-task1/index.html",
+    "main.80b62283.css.map": "/hnig-task1/static/css/main.80b62283.css.map",
+    "main.4d563f2a.js.map": "/hnig-task1/static/js/main.4d563f2a.js.map",
+    "787.b755f208.chunk.js.map": "/hnig-task1/static/js/787.b755f208.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.80b62283.css",
+    "static/js/main.4d563f2a.js"
+  ]
+}
