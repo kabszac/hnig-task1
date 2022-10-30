@@ -1,9 +1,10 @@
 import React from 'react';
 import Button from '../button/Button';
+import './Links.css'
 
 const Links = () => {
     return (
-        <div>
+        <div className=' links-class'>
             <Button id='btn__twiiter' link='https://twitter.com/KabuchoIsaac/'>Kabucho Isaac</Button>
             <Button id='btn__zuri' link='https://training.zuri.team/'>Zuri Team</Button>
             <Button id='books' link='http://books.zuri.team '>Zuri Books</Button>

@@ -1,16 +1,15 @@
 import React from 'react';
-import github from '../../assets/github.svg'
-import slack from '../../assets/slack.svg'
+import zuri from '../../assets/zuri.svg'
+import i4g from '../../assets/I4G.svg'
+import './Footer.css'
+
 
 const Footer = () => {
     return (
         <div className='footer'>
-            <a href="https://github.com/kabszac">
-                <img src={github} alt="github" />
-            </a>
-            <a href="https://slack.com">
-                <img src={slack} alt="slack" />
-            </a>
+           <img src={zuri} alt="zuri" /> 
+           <p>HNG Internship 9 Frontend Task</p>
+           <img src={i4g} alt="i4g" />
         </div>
     );
 };
