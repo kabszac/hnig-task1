@@ -3,16 +3,13 @@
     justify-content: center;
     position: relative;
     width: 72rem;
-    height: 8.75rem;
+    height: 8.875rem;
 }
 
 #slack {
     display: none;
 }
 
-/* .profile-part{
-    padding-right: 18rem;
-} */
 
 .share-link.phone{
     display: none;
@@ -25,6 +22,8 @@
     bottom: 14.95%;
     top: 4.95%
 }
+
+
 
 @media (max-width:600px){
     .profile{
@@ -39,7 +38,5 @@
         display: block;
         right: 0;
     }
-
-
 }
 

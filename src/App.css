@@ -1,26 +1,21 @@
 
-body {
-  box-sizing: border-box;
+body{
+  margin: 0;
+  padding: 0;
   position: relative;
-  width: 90rem;
-  height: 72.375rem;
-  background: #FFFFFF;
-
+  min-width: 90rem;
+  background-color: #ffff;
+  max-width: 100%;
 }
 
-.App {
-  box-sizing: border-box;
+.App{
   display: flex;
   flex-direction: column;
   align-items: center;
   padding: 4rem 7rem;
   gap: 1.5rem;
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 90rem;
-  height: 62.375rem;
 }
+
 
 
 @media (max-width:600px){

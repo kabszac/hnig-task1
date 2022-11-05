@@ -4,12 +4,13 @@
     justify-content: space-between;
     padding: 3rem  7rem;
     align-items: center;
-    position: absolute;
+    /* position: absolute; */
     width: 90rem;
     height: 10rem;
-    left: 0;
-    top: 62.375rem;
+    /* left: 0; */
+    /* top: 62.375rem; */
 }
+
 
 
 @media (max-width:600px){
@@ -23,3 +24,5 @@
         padding: 2rem 0;
     }
 }
+
+
