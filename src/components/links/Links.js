@@ -12,7 +12,7 @@ const Links = () => {
             <Button id='book__python' link='https://books.zuri.team/python-for-beginners?ref_id=<kabuchokuria>,'>Python Books</Button>
             <Button id='pitch' link='https://backgroundcheck.zuri.team'>Background Check for Coders </Button>
             <Button id='book__design' link='https://books.zuri.team/design-rules'>Design Books</Button>
-            <Button id='contact'><Link to='/contact'>Contact</Link></Button>
+            <Button id='contact'><Link to='/contact'>Contact  Me</Link></Button>
 
         </div>
     );
